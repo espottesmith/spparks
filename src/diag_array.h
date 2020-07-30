@@ -10,7 +10,7 @@
  
    This class added by Eric Homer (copied after diag_energy.h).
 
-   See the README file in the top-level SPPARKS directory.
+   See the README.md file in the top-level SPPARKS directory.
 ------------------------------------------------------------------------- */
 
 #ifdef DIAG_CLASS

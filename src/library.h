@@ -8,7 +8,7 @@
    certain rights in this software.  This software is distributed under 
    the GNU General Public License.
 
-   See the README file in the top-level SPPARKS directory.
+   See the README.md file in the top-level SPPARKS directory.
 ------------------------------------------------------------------------- */
 
 /* 

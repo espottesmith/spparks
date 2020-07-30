@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 
 # Install.py tool to download, unpack, build, and link to the Stitch library
-# used to automate the steps described in the README file in this dir
+# used to automate the steps described in the README.md file in this dir
 
 from __future__ import print_function
 import sys,os,re,subprocess
